@@ -1,0 +1,14 @@
+.items{
+    width: 80vw;
+    background-color: antiquewhite;
+}
+.Nav{
+    background-color: antiquewhite;
+
+}
+.Heading{
+    font-weight: 600;
+}
+.items li button:hover{
+    text-decoration:underline;
+}
